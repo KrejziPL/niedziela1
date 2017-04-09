@@ -24,10 +24,18 @@
 } 
 
 .zubek{
-    text-align: center;   
-    color: skyblue;
+    text-align: justify;   
+    color: green;
     font-family: 'Georgia';
     font-size: 20px;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.zubek h2{
+    text-align: center;    
+}
+.zubek img{
+    width: 600px;
+    height: 400px;
+    
 }
