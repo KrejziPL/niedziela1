@@ -42,3 +42,6 @@
     background-color: yellowgreen;
     text-align: center;
 }
+.borderLK{
+    border:10px yellow dotted;
+}
