@@ -22,3 +22,9 @@
 .navigation__list__item__link--active {
     color: #C44D58;
 } 
+
+.zubek{
+    text-align: center;   
+    color: skyblue;
+    font-family: 'Georgia';
+}
