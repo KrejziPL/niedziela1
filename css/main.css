@@ -22,6 +22,10 @@
 .navigation__list__item__link--active {
     color: #C44D58;
 } 
+.par{
+    color:red;
+    font-size:72px;
+}
 
 .LK1{
     border: 2px solid green;
