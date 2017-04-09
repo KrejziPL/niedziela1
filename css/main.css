@@ -23,12 +23,20 @@
     color: #C44D58;
 } 
 
-h1{
+li{
     color:red;
     font-family: Verdana;
-    font-size: 16px;
+    font-size: 10px;
 }
 
 p{
     color:blue;
+}
+
+body{
+    background-color: yellow;
+}
+
+section{
+    border:2px solid green;
 }
