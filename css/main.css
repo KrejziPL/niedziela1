@@ -23,20 +23,25 @@
     color: #C44D58;
 } 
 
-li{
+.li{
     color:red;
     font-family: Verdana;
     font-size: 10px;
 }
 
-p{
+.par{
     color:blue;
 }
 
-body{
+.para{
+    bacground-color: pink;
+    border-left: 4px dotted black;
+}
+
+.body{
     background-color: yellow;
 }
 
-section{
+.section2{
     border:2px solid green;
 }
